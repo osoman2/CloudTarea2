@@ -8,3 +8,4 @@ La [Vista 1](https://github.com/osoman2/CloudTarea2/blob/main/Imgs/2022-04-25%20
 
 La página sirve para hacer un registro, actualización y eliminación de nombres como se muestra en la [Vista 2](https://github.com/osoman2/CloudTarea2/blob/main/Imgs/2022-04-25%20234934%20app%202.png). 
 
+Adicionalmente, se presentan las imagenes [Img1](https://github.com/osoman2/CloudTarea2/blob/main/Imgs/2022-04-25%20234253%20compose-docker.png) e [Img2](https://github.com/osoman2/CloudTarea2/blob/main/Imgs/2022-04-25%20234404%20docker%20.png) de ejecutar docker-compose up y una imagen de la aplicación de escritorio de docker.
